@@ -26,7 +26,7 @@ Hapa'o is available on the public Cincom repository under the Spy project reposi
 
 To download Hapa'o in a fresh Pharo image. Execute the following in a workspace:
 
-```
+```Smalltalk
 Gofer new
 	squeaksource: 'Spy';
 	package: 'ConfigurationOfSpy';
